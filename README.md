@@ -8,7 +8,8 @@ step 2: when to use
 ![AWs task  4](https://github.com/user-attachments/assets/9c8dd3b9-c1ec-4d4d-a2f5-93669577af99)
 
 # -Install MangoDB
-``` bash
+``` git 
     sudo dpkg -i mongodb-org-server_8.0.3_arm64.deb
-
+```
+#-JOIJGuy
 
