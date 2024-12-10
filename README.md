@@ -9,6 +9,6 @@ step 2: when to use
 
 # -Install MangoDB
 ``` bash
-    git clone  sudo dpkg -i mongodb-org-server_8.0.3_arm64.deb
+    sudo dpkg -i mongodb-org-server_8.0.3_arm64.deb
 
 
